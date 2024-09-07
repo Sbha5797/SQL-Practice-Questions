@@ -20,6 +20,7 @@
 | [1390-average-selling-price](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2087-confirmation-rate](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
