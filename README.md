@@ -5,6 +5,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-more-than-5-students](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/0610-triangle-judgement) |
