@@ -19,6 +19,7 @@
 | [1278-product-price-at-a-given-date](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1773-percentage-of-users-attended-a-contest) |
