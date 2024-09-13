@@ -23,6 +23,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1390-average-selling-price) |
+| [1480-movie-rating](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1480-movie-rating) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Sbha5797/SQL-Practice-Questions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
